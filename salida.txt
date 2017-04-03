@@ -1,0 +1,29 @@
+Microsoft Windows [Versión 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+C:\Users\Usuario>cd..
+
+C:\Users>cd..
+
+C:\>cd..\Program Files (x86)\CodeBlocks\Proyectos\1,4\bin\Debug
+
+C:\Program Files (x86)\CodeBlocks\Proyectos\1,4\bin\Debug>unocuatro
+  C    F
+ -17.8   0
+  -6.7  20
+   4.4  40
+  15.6  60
+  26.7  80
+  37.8 100
+  48.9 120
+  60.0 140
+  71.1 160
+  82.2 180
+  93.3 200
+ 104.4 220
+ 115.6 240
+ 126.7 260
+ 137.8 280
+ 148.9 300
+
+C:\Program Files (x86)\CodeBlocks\Proyectos\1,4\bin\Debug>
